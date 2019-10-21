@@ -20,7 +20,8 @@ As a special guest and remote speaker we will have [Kyle Ruddy](https://twitter.
 
 ## Index
 
-* [Jaap Brasser](https://github.com/jaapbrasser/events/tree/master/Jaap%20Brasser)
-  * [DuPSUG - DuPSUG in Gouda.pdf](https://github.com/jaapbrasser/events/tree/master/Jaap%20Brasser/DuPSUG%20-%20DuPSUG%20in%20Gouda.pdf)
-* [README.md](https://github.com/jaapbrasser/events/tree/master/README.md)
-
+* [Jaap Brasser](https://github.com/dupsug/dupsug16/tree/master/Jaap%20Brasser)
+  * [DuPSUG - DuPSUG in Gouda.pdf](https://github.com/dupsug/dupsug16/tree/master/Jaap%20Brasser/DuPSUG%20-%20DuPSUG%20in%20Gouda.pdf)
+* [Kyle Ruddy](https://github.com/dupsug/dupsug16/tree/master/Kyle%20Ruddy)
+  * [DSCR_for_VMware_DuPSUG.pdf](https://github.com/dupsug/dupsug16/tree/master/Kyle%20Ruddy/DSCR_for_VMware_DuPSUG.pdf)
+* [README.md](https://github.com/dupsug/dupsug16/tree/master/README.md)
